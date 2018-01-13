@@ -1,0 +1,14 @@
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\bin\Debug\BasicTutsonForm.exe.config
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\bin\Debug\BasicTutsonForm.exe
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\bin\Debug\BasicTutsonForm.pdb
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\bin\Debug\BasicTutsonForm.xml
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.vbprojResolveAssemblyReference.cache
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.LoginForm.resources
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.Resources.resources
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.vbproj.GenerateResource.Cache
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.vbproj.CoreCompileInputs.cache
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.exe
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.xml
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.pdb
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.MainForm.resources
+C:\Users\mnzit\source\repos\BasicTutsonForm\BasicTutsonForm\obj\Debug\BasicTutsonForm.ChangePassword.resources
