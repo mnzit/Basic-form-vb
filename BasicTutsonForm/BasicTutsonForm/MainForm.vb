@@ -8,7 +8,7 @@
     Private Sub ChangePasswordToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles ChangePasswordToolStripMenuItem.Click
 
         If Application.OpenForms().OfType(Of ChangePassword).Any Then
-            MessageBox.Show("Cannot open multiple form at once")
+            MessageBox.Show("Cannot open multiple form at once!!")
         Else
             Dim f2 As New ChangePassword
             f2.MdiParent = Me
